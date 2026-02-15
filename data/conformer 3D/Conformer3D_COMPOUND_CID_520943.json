@@ -1,0 +1,499 @@
+{
+  "PC_Compounds": [
+    {
+      "id": {
+        "id": {
+          "cid": 520943
+        }
+      },
+      "atoms": {
+        "aid": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23,
+          24,
+          25
+        ],
+        "element": [
+          7,
+          6,
+          6,
+          6,
+          6,
+          6,
+          6,
+          6,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      "bonds": {
+        "aid1": [
+          1,
+          1,
+          1,
+          2,
+          2,
+          2,
+          2,
+          3,
+          3,
+          4,
+          4,
+          4,
+          5,
+          5,
+          5,
+          6,
+          6,
+          6,
+          7,
+          7,
+          7,
+          8,
+          8,
+          8
+        ],
+        "aid2": [
+          3,
+          4,
+          14,
+          3,
+          5,
+          6,
+          9,
+          10,
+          11,
+          7,
+          12,
+          13,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          8,
+          21,
+          22,
+          23,
+          24,
+          25
+        ],
+        "order": [
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      "coords": [
+        {
+          "type": [
+            2,
+            5,
+            10
+          ],
+          "aid": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25
+          ],
+          "conformers": [
+            {
+              "x": [
+                0.326,
+                -2.1625,
+                -0.8323,
+                1.5576,
+                -2.3527,
+                -3.3576,
+                2.7576,
+                4.0639,
+                -2.1494,
+                -0.7499,
+                -0.8237,
+                1.6572,
+                1.5577,
+                0.3324,
+                -2.3376,
+                -3.313,
+                -1.5694,
+                -3.447,
+                -4.2914,
+                -3.251,
+                2.6714,
+                2.7844,
+                4.1998,
+                4.0873,
+                4.9111
+              ],
+              "y": [
+                -0.2033,
+                -0.0166,
+                0.6164,
+                0.4001,
+                -1.4171,
+                0.8752,
+                -0.428,
+                0.1734,
+                -0.1221,
+                1.6171,
+                0.7321,
+                1.4206,
+                0.4597,
+                -0.2783,
+                -1.3922,
+                -1.8407,
+                -2.1041,
+                1.0189,
+                0.4329,
+                1.8607,
+                -1.4539,
+                -0.4877,
+                1.1886,
+                0.2155,
+                -0.4335
+              ],
+              "z": [
+                -0.2897,
+                -0.2945,
+                0.1314,
+                0.176,
+                0.2899,
+                0.0449,
+                -0.2765,
+                0.2185,
+                -1.3883,
+                -0.3109,
+                1.2226,
+                -0.2141,
+                1.2712,
+                -1.3065,
+                1.3848,
+                -0.0237,
+                -0.046,
+                1.127,
+                -0.3178,
+                -0.4204,
+                0.1018,
+                -1.3714,
+                -0.1679,
+                1.3121,
+                -0.1161
+              ],
+              "data": [
+                {
+                  "urn": {
+                    "label": "Conformer",
+                    "name": "ID",
+                    "datatype": 11,
+                    "version": "2.1",
+                    "software": "PubChem",
+                    "source": "ncbi.nlm.nih.gov",
+                    "release": "2009.12.11"
+                  },
+                  "value": {
+                    "sval": "0007F2EF00000001"
+                  }
+                },
+                {
+                  "urn": {
+                    "label": "Energy",
+                    "name": "MMFF94 NoEstat",
+                    "datatype": 7,
+                    "version": "1.6.0",
+                    "software": "Szybki",
+                    "source": "openeye.com",
+                    "release": "2012.01.18"
+                  },
+                  "value": {
+                    "fval": -3.2148
+                  }
+                },
+                {
+                  "urn": {
+                    "label": "Feature",
+                    "name": "Self Overlap",
+                    "datatype": 7,
+                    "version": "2.1",
+                    "software": "PubChem",
+                    "source": "ncbi.nlm.nih.gov",
+                    "release": "2012.01.18"
+                  },
+                  "value": {
+                    "fval": 20.297
+                  }
+                },
+                {
+                  "urn": {
+                    "label": "Fingerprint",
+                    "name": "Shape",
+                    "datatype": 2,
+                    "version": "2.1",
+                    "software": "PubChem",
+                    "source": "ncbi.nlm.nih.gov",
+                    "release": "2012.11.26"
+                  },
+                  "value": {
+                    "slist": [
+                      "11062470 55 18202281385799726180",
+                      "12932764 1 17167850980832381756",
+                      "14325111 11 18411138043517723174",
+                      "20279233 1 18060423508086137134",
+                      "20645464 45 18272658939335031567",
+                      "20645477 70 17274263829651169102",
+                      "23402539 116 18342448228348304037",
+                      "3248919 1 18060145327312302084",
+                      "5460574 1 7853573513290014916"
+                    ]
+                  }
+                },
+                {
+                  "urn": {
+                    "label": "Shape",
+                    "name": "Multipoles",
+                    "datatype": 8,
+                    "version": "1.8.1",
+                    "software": "OEShape",
+                    "source": "openeye.com",
+                    "release": "2012.01.18"
+                  },
+                  "value": {
+                    "fvec": [
+                      159.66,
+                      6.9,
+                      1.06,
+                      0.66,
+                      4.09,
+                      0.25,
+                      0,
+                      -0.34,
+                      -0.3,
+                      -0.87,
+                      -0.08,
+                      0.01,
+                      0.01,
+                      0.17
+                    ]
+                  }
+                },
+                {
+                  "urn": {
+                    "label": "Shape",
+                    "name": "Self Overlap",
+                    "datatype": 7,
+                    "version": "2.1",
+                    "software": "PubChem",
+                    "source": "ncbi.nlm.nih.gov",
+                    "release": "2012.01.18"
+                  },
+                  "value": {
+                    "fval": 276.055
+                  }
+                },
+                {
+                  "urn": {
+                    "label": "Shape",
+                    "name": "Volume",
+                    "datatype": 7,
+                    "version": "1.8.1",
+                    "software": "OEShape",
+                    "source": "openeye.com",
+                    "release": "2012.01.18"
+                  },
+                  "value": {
+                    "fval": 106.6
+                  }
+                }
+              ]
+            }
+          ],
+          "data": [
+            {
+              "urn": {
+                "label": "Conformer",
+                "name": "RMSD",
+                "datatype": 7,
+                "release": "2009.12.11"
+              },
+              "value": {
+                "fval": 0.6
+              }
+            },
+            {
+              "urn": {
+                "label": "Diverse Conformer",
+                "name": "ID List",
+                "datatype": 6,
+                "release": "2012.02.08"
+              },
+              "value": {
+                "ivec": [
+                  1,
+                  11,
+                  5,
+                  3,
+                  9,
+                  7,
+                  12,
+                  6,
+                  2,
+                  10,
+                  8,
+                  4
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "props": [
+        {
+          "urn": {
+            "label": "Charge",
+            "name": "MMFF94 Partial",
+            "datatype": 2,
+            "version": "1.9.0",
+            "software": "OEChem",
+            "source": "openeye.com",
+            "release": "2012.11.26"
+          },
+          "value": {
+            "slist": [
+              "4",
+              "1 -0.9",
+              "14 0.36",
+              "3 0.27",
+              "4 0.27"
+            ]
+          }
+        },
+        {
+          "urn": {
+            "label": "Count",
+            "name": "Effective Rotor",
+            "datatype": 7,
+            "version": "1.7.6",
+            "software": "OEChem",
+            "source": "ncbi.nlm.nih.gov",
+            "release": "2012.01.18"
+          },
+          "value": {
+            "fval": 4
+          }
+        },
+        {
+          "urn": {
+            "label": "Features",
+            "name": "Pharmacophore",
+            "datatype": 2,
+            "parameters": "ImplicitMillsDean merged",
+            "version": "1.8.3",
+            "software": "OEShape",
+            "source": "openeye.com",
+            "release": "2012.11.26"
+          },
+          "value": {
+            "slist": [
+              "4",
+              "1 1 cation",
+              "1 1 donor",
+              "1 8 hydrophobe",
+              "3 2 5 6 hydrophobe"
+            ]
+          }
+        }
+      ],
+      "count": {
+        "heavy_atom": 8,
+        "atom_chiral": 0,
+        "atom_chiral_def": 0,
+        "atom_chiral_undef": 0,
+        "bond_chiral": 0,
+        "bond_chiral_def": 0,
+        "bond_chiral_undef": 0,
+        "isotope_atom": 0,
+        "covalent_unit": 1,
+        "tautomers": 1
+      }
+    }
+  ]
+}
