@@ -1,0 +1,1 @@
+from .gnn_model import Voxel3DCNN, DualBranchGNN
